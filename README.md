@@ -15,3 +15,5 @@ Help save them and change history!
 **Kaggle competition link:** https://www.kaggle.com/competitions/spaceship-titanic/overview
 
 **Dataset source:** https://www.kaggle.com/competitions/spaceship-titanic/data
+
+Used algorithms: XGB, LightGBM, CatBoost
